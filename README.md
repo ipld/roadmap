@@ -19,14 +19,14 @@ Create the Internet of data-structures.
 ## Top Level Goals
 
 1. "Retcon" IPLD.
-   * **Project:** Refactor all specifications.
-   * **Project:** New website.
+   - [x] **Project:** Refactor all specifications.
+   - [ ] **Project:** New website.
 2. Provide necessary APIs and data-structures for IPFS.
-   * **Project:** unixfs-v2 spec
-   * **Project:** refactor ipld-interface
+   - [ ] **Project:** unixfs-v2
+   - [ ] **Project:** refactor ipld-interface
 3. Create data-structures for common use cases.
-   * **Project:** Standardized HAMT
-   * **Project:** Ordered Collection
+   - [ ] **Project:** Standardized HAMT
+   - [ ] **Project:** Ordered Collections
 
 ## Milestones
 
@@ -34,5 +34,10 @@ Create the Internet of data-structures.
 
 1. Finish refactoring all specifications.
 2. Land draft specification for unixfs-v2.
+3. Finish refactoring of JS IPLD interface.
 
 ### 2019 Q1
+
+1. New website.
+2. Standardized HAMT.
+3. Research API for Ordered Collections.
