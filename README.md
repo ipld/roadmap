@@ -38,6 +38,8 @@ Create the Internet of data-structures.
 
 ### 2019 Q1
 
-1. New website.
-2. Standardized HAMT.
-3. Research API for Ordered Collections.
+???
+
+### Future
+
+1. New Website
