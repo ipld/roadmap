@@ -30,4 +30,4 @@ Create the Internet of data-structures.
 
 ## OKR's
 
-Quarter OKR's (Objective, Key Result) are in the [okr directory](./okr).
+Quarter OKR's (Objective, Key Result) are in the [okr directory](./okrs).
