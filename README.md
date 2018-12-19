@@ -28,16 +28,6 @@ Create the Internet of data-structures.
    - [ ] **Project:** Standardized HAMT
    - [ ] **Project:** Ordered Collections
 
-## Milestones
+## OKR's
 
-### 2018 Q4
-
-1. Finish refactoring all specifications.
-2. Land draft specification for unixfs-v2.
-3. Finish refactoring of JS IPLD interface.
-
-### 2019 Q1
-
-1. New website.
-2. Standardized HAMT.
-3. Research API for Ordered Collections.
+Quarter OKR's (Objective, Key Result) are in the [okr directory](./okrs).
