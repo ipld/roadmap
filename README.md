@@ -16,17 +16,22 @@ Create the Internet of data-structures.
 3. IPLD must provide specifications for representing common types of data.
 4. IPLD data-structures must easily replicate across peers.
 
-## Top Level Goals
+## 2018 Top Level Targets
 
-1. "Retcon" IPLD.
-   - [x] **Project:** Refactor all specifications.
-   - [ ] **Project:** New website.
-2. Provide necessary APIs and data-structures for IPFS.
-   - [ ] **Project:** unixfs-v2
-   - [ ] **Project:** refactor ipld-interface
-3. Create data-structures for common use cases.
-   - [ ] **Project:** Standardized HAMT
-   - [ ] **Project:** Ordered Collections
+1. **Q1** Selectors & Interface Updates
+   - [ ] Create selector engines for Go and JavaScript
+   - [ ] Migrate JavaScript interfaces to async/await and async generators
+   - [ ] First version of ipld-prime and schemas for Go
+2. **Q2** Codify Primitives
+   - [ ] Iterate and integrate ipld-prime and schemas in Go
+   - [ ] Iterate and integrate changes to JS interfaces (async/await)
+   - [ ] First version of experimental collections in JavaScript
+   - [ ] unixfs-v2 implementation in JavaScript
+3. **Q3** Build things w/ IPLD
+   - [ ] Identify some Proof-of-Concept projects to build w/ IPLD
+4. **Q4** Rethink API layers and abstractions
+   - [ ] After spending a quarter using IPLD to build "real stuff," return 
+         to the interfaces and layers and iterate.
 
 ## OKR's
 
