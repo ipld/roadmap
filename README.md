@@ -7,7 +7,12 @@ questions you have about the current Roadmap.
 
 ## IPLD Vision
 
-Create the Internet of data-structures.
+Enable the Internet of Data.
+
+## IPLD Priorities
+
+1. IPLD must be a good dependency for other projects.
+2. IPLD must strive to deliver on the vision of an "Internet of Data."
 
 ### Requirements
 
@@ -18,20 +23,15 @@ Create the Internet of data-structures.
 
 ## 2019 Top Level Targets
 
-1. **Q1** Selectors & Interface Updates
-   - [ ] Create selector engines for Go and JavaScript
-   - [ ] Migrate JavaScript interfaces to async/await and async generators
-   - [ ] First version of ipld-prime and schemas for Go
-2. **Q2** Codify Primitives
-   - [ ] Iterate and integrate ipld-prime and schemas in Go
-   - [ ] Iterate and integrate changes to JS interfaces (async/await)
-   - [ ] First version of experimental collections in JavaScript
-   - [ ] unixfs-v2 implementation in JavaScript
-3. **Q3** Build things w/ IPLD
-   - [ ] Identify some Proof-of-Concept projects to build w/ IPLD
-4. **Q4** Rethink API layers and abstractions
-   - [ ] After spending a quarter using IPLD to build "real stuff," return 
-         to the interfaces and layers and iterate.
+* **Q1/Q2**
+  - [x] Solidify primitives.
+  - [x] Solidify core libraries.
+3. **Q3** 
+  - [ ] Mature schemas in order to provide codegen in Go.
+  - [ ] Provide a JS Composite based UnixFSv2 in JS.
+  - [ ] Implement core Rust libraries w/ WASM compilation.
+4. **Q4**
+  - [ ] Begin integration of Schema, Composite and WASM efforts.
 
 ## OKR's
 
