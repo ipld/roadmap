@@ -9,6 +9,22 @@ questions you have about the current Roadmap.
 
 Enable the Internet of Data.
 
+The IPLD project vision is quite large, so there's a big disparity between what we are doing
+**now** and what the project's intended scope is.
+
+The teams spends most of its time in two categories of work: research engineering and dependency engineering.
+
+Research engineering is code and spec writing for things that are not solidified yet and should rarely be used
+or relied upon yet by others.
+
+Dependency engineering is code and spec writing for things people *already* depend on, or will rely on very soon.
+
+When planning and documenting our activity we try to distinguish between these two activities as best we can because the
+process, timelines, and guarantees we can make about each category are very different.
+
+The project is not currently spending much time on: external messaging, education, evangelism, or product development.
+We do some of this work occasionally, but it's not our top priority at this moment.
+
 ## IPLD Priorities
 
 1. IPLD must be a good dependency for other projects.
@@ -27,11 +43,11 @@ Enable the Internet of Data.
   - [x] Solidify primitives.
   - [x] Solidify core libraries.
 3. **Q3** 
-  - [ ] Mature schemas in order to provide codegen in Go.
-  - [ ] Define "shippable" UnixFSv2.
-  - [ ] Implement core Rust libraries w/ WASM compilation.
+  - Mature schemas in order to provide codegen in Go.
+  - Define "shippable" UnixFSv2.
+  - Implement core Rust libraries w/ WASM compilation.
 4. **Q4**
-  - [ ] Implementation of UnixFSv2.
+  - Implementation of UnixFSv2.
 
 ## OKR's
 
