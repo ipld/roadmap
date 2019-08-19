@@ -39,15 +39,15 @@ We do some of this work occasionally, but it's not our top priority at this mome
 
 ## 2019 Top Level Targets
 
-* **Q1/Q2**
-  - [x] Solidify primitives.
-  - [x] Solidify core libraries.
+1. **Q1/Q2**
+   - [x] Solidify primitives.
+   - [x] Solidify core libraries.
 3. **Q3** 
-  - Mature schemas in order to provide codegen in Go.
-  - Define "shippable" UnixFSv2.
-  - Implement core Rust libraries w/ WASM compilation.
+   - Mature schemas in order to provide codegen in Go.
+   - Define "shippable" UnixFSv2.
+   - Implement core Rust libraries w/ WASM compilation.
 4. **Q4**
-  - Implementation of UnixFSv2.
+   - Implementation of UnixFSv2.
 
 ## OKR's
 
