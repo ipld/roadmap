@@ -28,10 +28,10 @@ Enable the Internet of Data.
   - [x] Solidify core libraries.
 3. **Q3** 
   - [ ] Mature schemas in order to provide codegen in Go.
-  - [ ] Provide a JS Composite based UnixFSv2 in JS.
+  - [ ] Define "shippable" UnixFSv2.
   - [ ] Implement core Rust libraries w/ WASM compilation.
 4. **Q4**
-  - [ ] Begin integration of Schema, Composite and WASM efforts.
+  - [ ] Implementation of UnixFSv2.
 
 ## OKR's
 
