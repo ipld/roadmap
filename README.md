@@ -1,3 +1,5 @@
+**This repository is no longer in use, it does not represent the current IPLD roadmap and has been archived.**
+
 **Welcome to the IPLD Roadmap!**
 
 Please use GitHub issues to discuss anything you'd like to see added to the Roadmap or any 
